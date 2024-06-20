@@ -4,10 +4,13 @@ const int window_height = 720;
 const int tile_width = 35;
 const int tile_height = 48;
 
-const int height = 10;
+const int height = 13;
 const int width = 105;
 
 char tilemap[height][width] = {
+"                                                                                                      ",
+"                                                                                                      ",
+"                                                                                                      ",
 "                                                                                                      ",
 "               ttt    tt                                          ttt    tt                           ",
 "                                                                                                      ",
